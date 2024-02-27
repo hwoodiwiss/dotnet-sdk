@@ -1,4 +1,0 @@
-[submodule "submodules/kiota-serialization-form-dotnet"]
-	path = submodules/kiota-serialization-form-dotnet
-	url = git@github.com:hwoodiwiss/kiota-serialization-form-dotnet.git
-	branch = hwoodiwiss-update-enum-access-attributes
